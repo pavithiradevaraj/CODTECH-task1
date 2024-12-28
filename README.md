@@ -1,5 +1,5 @@
 # CODTECH-task1
-Name : PAVITHIRA
+Name : PAVITHIRA D
 
 company :CODETECH IT SOLUTION
 
