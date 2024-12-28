@@ -18,12 +18,15 @@ Features:
 1.User-Friendly Interface:
 
 *Clear menu-driven interface with options like Start Game, View Instructions, and Exit.
+
 2.Question Bank:
 
 *A set of predefined questions with multiple-choice answers stored in the program.
+
 3.Scoring System:
 
 *Tracks the number of correct answers and displays the final score.
+
 4.Levels or Categories (Optional):
 
 * Beginner, Intermediate, and Advanced levels based on question difficulty.
@@ -34,8 +37,13 @@ Features:
 *High-score system saved in a file for future sessions.
 
 Expected Output:
+
     1.A smooth interaction where users can:
+    
         * Start the quiz.
+        
         * Answer multiple-choice questions.
+        
         * Receive feedback on their performance with a score.
+        
     2.An optional leaderboard showing the highest scores.
