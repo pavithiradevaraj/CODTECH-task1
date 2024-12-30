@@ -9,7 +9,6 @@ DOMAIN : C PROGRAMMING
 
 DURATION : DECEMBER 12,2024- JAN 12,2025
 
-MENTOR:
 
 Objective:
 To create a text-based quiz game using the C programming language where users answer questions, and their score is calculated based on correct answers.
